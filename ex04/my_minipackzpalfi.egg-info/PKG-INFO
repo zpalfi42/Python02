@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: my-minipackzpalfi
+Version: 0.0.11
+Summary: Howto create a package in python.
+Author: Zsolt Palfi
+Author-email: <zpalfi@student.42barcelona.com>
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Education
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE

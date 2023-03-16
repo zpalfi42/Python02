@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+my_minipackzpalfi/__init__.py
+my_minipackzpalfi/ft_progress.py
+my_minipackzpalfi/log.py
+my_minipackzpalfi.egg-info/PKG-INFO
+my_minipackzpalfi.egg-info/SOURCES.txt
+my_minipackzpalfi.egg-info/dependency_links.txt
+my_minipackzpalfi.egg-info/top_level.txt
